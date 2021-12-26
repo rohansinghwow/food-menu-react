@@ -1,0 +1,15 @@
+img{
+    width: 200px;
+    height: 140px;
+    object-fit: cover;
+    
+}
+
+.dish-description{
+    width: 340px;
+}
+.dish{
+    width: 450px;
+    height: 300px;
+
+}
